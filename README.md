@@ -1,3 +1,2 @@
-Andrew Adamson's WebGL 2.0 playlist
-
-https://www.youtube.com/playlist?list=PLPbmjY2NVO_X1U1JzLxLDdRn4NmtxyQQo
+- Andrew Adamson's WebGL 2.0 playlist: https://www.youtube.com/playlist?list=PLPbmjY2NVO_X1U1JzLxLDdRn4NmtxyQQo
+- WebGL tutorials by SonarSystems: [youtube playlist](https://www.youtube.com/playlist?list=PLRtjMdoYXLf4aWJ5WJl8_vBnynl6st_sQ); [github repo](https://github.com/SonarSystems/WebGL-Tutorials/tree/master)
