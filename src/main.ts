@@ -1,4 +1,4 @@
-import './style.css'
+import './styles.css';
 
 declare var URLPattern: any; // typescript doesn't yet know of URLPattern
 
