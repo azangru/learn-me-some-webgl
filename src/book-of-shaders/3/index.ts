@@ -1,5 +1,5 @@
 import vertexShaderSource from './shaders/vertex.glsl';
-import fragmentShaderSource from './shaders/fragment-power.glsl';
+import fragmentShaderSource from './shaders/fragment-smoothstep-fn.glsl';
 
 const main = () => {
   const root = document.querySelector<HTMLDivElement>('#root')!;
